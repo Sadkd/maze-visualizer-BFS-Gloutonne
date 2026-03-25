@@ -1,8 +1,5 @@
 # 🧠 Maze Visualizer — BFS vs Greedy Algorithm
 
-[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
-[![Pygame](https://img.shields.io/badge/pygame-2.0+-green.svg)](https://www.pygame.org/)
-
 An interactive visualization tool that compares **Breadth‑First Search (BFS)** and **Greedy Best‑First Search** algorithms in maze solving. Built with **Pygame**, this project helps understand algorithm behavior through real‑time visualization.
 
 ---
