@@ -43,7 +43,7 @@ pip install pygame
 
 ---
 
-# ▶️ Run Project
+## ▶️ Run Project
 
 ```bash
 python maze_pygame.py
@@ -51,17 +51,14 @@ python maze_pygame.py
 
 ---
 
-# 🎮 Controls
-
+## 🎮 Controls
 Arrow Keys - Move the blue player through the maze
-
 
 ## 📊 Statistics
 
 * BFS explored nodes
 * Greedy explored nodes
 * Player steps
-
 
 ## ⚙️ Requirements
 pygame
